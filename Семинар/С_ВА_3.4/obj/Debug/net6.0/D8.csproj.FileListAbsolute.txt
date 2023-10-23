@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\ДЗ\D8\bin\Debug\net6.0\D8.exe
+C:\Users\Виталий\Examples\ДЗ\D8\bin\Debug\net6.0\D8.deps.json
+C:\Users\Виталий\Examples\ДЗ\D8\bin\Debug\net6.0\D8.runtimeconfig.json
+C:\Users\Виталий\Examples\ДЗ\D8\bin\Debug\net6.0\D8.dll
+C:\Users\Виталий\Examples\ДЗ\D8\bin\Debug\net6.0\D8.pdb
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.dll
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\refint\D8.dll
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.pdb
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\D8.genruntimeconfig.cache
+C:\Users\Виталий\Examples\ДЗ\D8\obj\Debug\net6.0\ref\D8.dll

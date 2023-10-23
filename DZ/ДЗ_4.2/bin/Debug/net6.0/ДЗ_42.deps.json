@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ДЗ_42/1.0.0": {
+        "runtime": {
+          "ДЗ_42.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ_42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\bin\Debug\net6.0\ДЗ_41.exe
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\bin\Debug\net6.0\ДЗ_41.deps.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\bin\Debug\net6.0\ДЗ_41.runtimeconfig.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\bin\Debug\net6.0\ДЗ_41.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\bin\Debug\net6.0\ДЗ_41.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\refint\ДЗ_41.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ДЗ_41.genruntimeconfig.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_41\obj\Debug\net6.0\ref\ДЗ_41.dll

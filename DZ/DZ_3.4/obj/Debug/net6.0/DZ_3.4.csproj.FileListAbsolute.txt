@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.AssemblyInfo.cs
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\дз1\DZ_3.4\bin\Debug\net6.0\DZ_3.4.exe
+C:\Users\Виталий\Examples\дз1\DZ_3.4\bin\Debug\net6.0\DZ_3.4.deps.json
+C:\Users\Виталий\Examples\дз1\DZ_3.4\bin\Debug\net6.0\DZ_3.4.runtimeconfig.json
+C:\Users\Виталий\Examples\дз1\DZ_3.4\bin\Debug\net6.0\DZ_3.4.dll
+C:\Users\Виталий\Examples\дз1\DZ_3.4\bin\Debug\net6.0\DZ_3.4.pdb
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.dll
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\refint\DZ_3.4.dll
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.pdb
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\DZ_3.4.genruntimeconfig.cache
+C:\Users\Виталий\Examples\дз1\DZ_3.4\obj\Debug\net6.0\ref\DZ_3.4.dll

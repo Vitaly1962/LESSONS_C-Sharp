@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\bin\Debug\net6.0\ДЗ_21.exe
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\bin\Debug\net6.0\ДЗ_21.deps.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\bin\Debug\net6.0\ДЗ_21.runtimeconfig.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\bin\Debug\net6.0\ДЗ_21.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\bin\Debug\net6.0\ДЗ_21.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\refint\ДЗ_21.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ДЗ_21.genruntimeconfig.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_21\obj\Debug\net6.0\ref\ДЗ_21.dll

@@ -1,0 +1,5 @@
+C:\Users\Виталий\Examples\ДЗ\FindMax\obj\Debug\net6.0\FindMax.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\FindMax\obj\Debug\net6.0\FindMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\FindMax\obj\Debug\net6.0\FindMax.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\FindMax\obj\Debug\net6.0\FindMax.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\FindMax\obj\Debug\net6.0\FindMax.csproj.CoreCompileInputs.cache

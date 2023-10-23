@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\bin\Debug\net6.0\С_ВА_4.5.exe
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\bin\Debug\net6.0\С_ВА_4.5.deps.json
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\bin\Debug\net6.0\С_ВА_4.5.runtimeconfig.json
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\bin\Debug\net6.0\С_ВА_4.5.dll
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\bin\Debug\net6.0\С_ВА_4.5.pdb
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.AssemblyInfo.cs
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.dll
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\refint\С_ВА_4.5.dll
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.pdb
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\С_ВА_4.5.genruntimeconfig.cache
+C:\Users\Виталий\Examples\Семинар\С_ВА_4.5\obj\Debug\net6.0\ref\С_ВА_4.5.dll

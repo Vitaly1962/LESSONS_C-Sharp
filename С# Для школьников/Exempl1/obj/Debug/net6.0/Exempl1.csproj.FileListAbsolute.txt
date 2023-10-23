@@ -1,0 +1,15 @@
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.AssemblyInfo.cs
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\bin\Debug\net6.0\Exempl1.exe
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\bin\Debug\net6.0\Exempl1.deps.json
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\bin\Debug\net6.0\Exempl1.runtimeconfig.json
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\bin\Debug\net6.0\Exempl1.dll
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\bin\Debug\net6.0\Exempl1.pdb
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.dll
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\refint\Exempl1.dll
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.pdb
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\Exempl1.genruntimeconfig.cache
+C:\Users\Виталий\Examples\С# Для школьников\Exempl1\obj\Debug\net6.0\ref\Exempl1.dll

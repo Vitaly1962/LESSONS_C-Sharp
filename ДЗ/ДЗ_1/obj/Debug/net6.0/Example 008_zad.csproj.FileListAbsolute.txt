@@ -1,0 +1,60 @@
+C:\Users\Виталий\Examples\Examples\Example 008_zad\bin\Debug\net6.0\Example 008_zad.exe
+C:\Users\Виталий\Examples\Examples\Example 008_zad\bin\Debug\net6.0\Example 008_zad.deps.json
+C:\Users\Виталий\Examples\Examples\Example 008_zad\bin\Debug\net6.0\Example 008_zad.runtimeconfig.json
+C:\Users\Виталий\Examples\Examples\Example 008_zad\bin\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\Examples\Example 008_zad\bin\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfo.cs
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\refint\Example 008_zad.dll
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\Example 008_zad.genruntimeconfig.cache
+C:\Users\Виталий\Examples\Examples\Example 008_zad\obj\Debug\net6.0\ref\Example 008_zad.dll
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\bin\Debug\net6.0\Example 008_zad.exe
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\bin\Debug\net6.0\Example 008_zad.deps.json
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\bin\Debug\net6.0\Example 008_zad.runtimeconfig.json
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\bin\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\bin\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfo.cs
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\refint\Example 008_zad.dll
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\Example 008_zad.genruntimeconfig.cache
+C:\Users\Виталий\Examples\Лекции\Example 008_zad\obj\Debug\net6.0\ref\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\bin\Debug\net6.0\Example 008_zad.exe
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\bin\Debug\net6.0\Example 008_zad.deps.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\bin\Debug\net6.0\Example 008_zad.runtimeconfig.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\bin\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\bin\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\refint\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\Example 008_zad.genruntimeconfig.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\Example 008_zad\obj\Debug\net6.0\ref\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\bin\Debug\net6.0\Example 008_zad.exe
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\bin\Debug\net6.0\Example 008_zad.deps.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\bin\Debug\net6.0\Example 008_zad.runtimeconfig.json
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\bin\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\bin\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.AssemblyInfo.cs
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\refint\Example 008_zad.dll
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.pdb
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\Example 008_zad.genruntimeconfig.cache
+C:\Users\Виталий\Examples\ДЗ\ДЗ_1\obj\Debug\net6.0\ref\Example 008_zad.dll
