@@ -4,7 +4,7 @@ Console.Write ("Введите число B: ");
 int b = Convert.ToInt32(Console.ReadLine());
 int c = 1;
 if (b<1)
-Console.Write("Число B должно быть натурSystem.Console.WriteLine(а);льным\n");
+Console.Write("Число B должно быть натуральным\n");
 else
 {
 while (b!=0)

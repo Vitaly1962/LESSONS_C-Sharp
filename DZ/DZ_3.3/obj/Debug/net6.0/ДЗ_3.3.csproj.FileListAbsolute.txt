@@ -13,18 +13,3 @@ C:\Users\Виталий\Examples\ДЗ Семинара\ДЗ_3.3\obj\Debug\net6.0
 C:\Users\Виталий\Examples\ДЗ Семинара\ДЗ_3.3\obj\Debug\net6.0\ДЗ_3.3.pdb
 C:\Users\Виталий\Examples\ДЗ Семинара\ДЗ_3.3\obj\Debug\net6.0\ДЗ_3.3.genruntimeconfig.cache
 C:\Users\Виталий\Examples\ДЗ Семинара\ДЗ_3.3\obj\Debug\net6.0\ref\ДЗ_3.3.dll
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.csproj.AssemblyReference.cache
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.AssemblyInfoInputs.cache
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.AssemblyInfo.cs
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.csproj.CoreCompileInputs.cache
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.dll
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\refint\ДЗ_3.3.dll
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.pdb
-C:\Users\Виталий\Examples\DZ\DZ_3.3\bin\Debug\net6.0\ДЗ_3.3.exe
-C:\Users\Виталий\Examples\DZ\DZ_3.3\bin\Debug\net6.0\ДЗ_3.3.deps.json
-C:\Users\Виталий\Examples\DZ\DZ_3.3\bin\Debug\net6.0\ДЗ_3.3.runtimeconfig.json
-C:\Users\Виталий\Examples\DZ\DZ_3.3\bin\Debug\net6.0\ДЗ_3.3.dll
-C:\Users\Виталий\Examples\DZ\DZ_3.3\bin\Debug\net6.0\ДЗ_3.3.pdb
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ДЗ_3.3.genruntimeconfig.cache
-C:\Users\Виталий\Examples\DZ\DZ_3.3\obj\Debug\net6.0\ref\ДЗ_3.3.dll

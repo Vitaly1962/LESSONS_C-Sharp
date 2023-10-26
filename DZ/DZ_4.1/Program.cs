@@ -2,7 +2,7 @@
     int[] massive = new int [length]; // создаем новый массив с указанием размера.
     int i = 0; 
     
-    System.Console.WriteLine();
+    Console.WriteLine();
     while(i < massive.Length)  // пока счётчик меньше размера массива
     { 
         Console.Write("Введите число "+ (i+1) + ':');
