@@ -1,0 +1,15 @@
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.csproj.AssemblyReference.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.GeneratedMSBuildEditorConfig.editorconfig
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.AssemblyInfoInputs.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.AssemblyInfo.cs
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.csproj.CoreCompileInputs.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\bin\Debug\net6.0\DZ_8.1.exe
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\bin\Debug\net6.0\DZ_8.1.deps.json
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\bin\Debug\net6.0\DZ_8.1.runtimeconfig.json
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\bin\Debug\net6.0\DZ_8.1.dll
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\bin\Debug\net6.0\DZ_8.1.pdb
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.dll
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\refint\DZ_8.1.dll
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.pdb
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\DZ_8.1.genruntimeconfig.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8.1\obj\Debug\net6.0\ref\DZ_8.1.dll

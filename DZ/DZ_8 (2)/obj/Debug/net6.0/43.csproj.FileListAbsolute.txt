@@ -1,0 +1,31 @@
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.csproj.AssemblyReference.cache
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.AssemblyInfoInputs.cache
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.AssemblyInfo.cs
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Examples\DZ\43\bin\Debug\net6.0\43.exe
+C:\Users\Виталий\Examples\DZ\43\bin\Debug\net6.0\43.deps.json
+C:\Users\Виталий\Examples\DZ\43\bin\Debug\net6.0\43.runtimeconfig.json
+C:\Users\Виталий\Examples\DZ\43\bin\Debug\net6.0\43.dll
+C:\Users\Виталий\Examples\DZ\43\bin\Debug\net6.0\43.pdb
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.dll
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\refint\43.dll
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.pdb
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\43.genruntimeconfig.cache
+C:\Users\Виталий\Examples\DZ\43\obj\Debug\net6.0\ref\43.dll
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.csproj.AssemblyReference.cache
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.GeneratedMSBuildEditorConfig.editorconfig
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.AssemblyInfoInputs.cache
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.AssemblyInfo.cs
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.csproj.CoreCompileInputs.cache
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.dll
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\refint\43.dll
+K:\1\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.pdb
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.csproj.AssemblyReference.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.GeneratedMSBuildEditorConfig.editorconfig
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.AssemblyInfoInputs.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.AssemblyInfo.cs
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.csproj.CoreCompileInputs.cache
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.dll
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\refint\43.dll
+K:\ОБУЧЕНИЕ в GeekBrains\Examples\DZ\DZ_8 (2)\obj\Debug\net6.0\43.pdb
